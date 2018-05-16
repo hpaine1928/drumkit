@@ -1,0 +1,8 @@
+---
+title: Clap
+date: 2018-05-16 22:46:00 Z
+file: "/uploads/clap-8eb8c2.wav"
+key: 71
+---
+
+A clapping noise
